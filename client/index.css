@@ -24,9 +24,9 @@
   
   /* Style the side navigation */
   .sidenav {
-    height: 100%;
+    height: 200%;
     width: 200px;
-    position:fixed;
+    position:absolute;
     z-index: 1;
     top: 50;
     left: 0;
@@ -58,13 +58,14 @@
   }
 
   .container {
-    width: 80%;
+
     overflow: hidden;
     background-color:cadetblue;
     color:aliceblue;
     margin-top:40px;
     margin-left: 295px;
-    margin-right: 40px;
+    margin-right: 80px;
+    margin-bottom:40px; 
     padding-bottom: 40px;
     border-radius: 10px;
     padding-left:40px;
