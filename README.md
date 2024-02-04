@@ -16,7 +16,7 @@ Initial Usage:
 - npm start
 
 
-- Some CSS code was originally featured on the CSS templates on W3Schools and have been modified for this site. The link to the original idea is below: 
+Some CSS code was originally featured on the CSS templates on W3Schools and have been modified for this site. The link to the original idea is below: 
 <a href="https://www.w3schools.com/css/css_templates.asp">W3Schools Template</a>
 
 # Build and Execution Instructions
