@@ -1,8 +1,12 @@
-# Assignment Portfolio
-- Created by: Olivia Adamic
-- Email: oliviaradamic@lewisu.edu
+### Preliminary Information:
+Created by: Olivia Adamic <br>
+Email: oliviaradamic@lewisu.edu <br>
+Project: Assignment Portfolio <br>
 
-# Additional Credits
+### Summary
+This project is meant to showcase past, current, and future assignments on a webpage. This will be updated regularly so check back in when more projects have been completed!
+
+### Credits
 - This project utilizes a template from Eric J Pogue for hosting it on Azure and his original README is below: 
 
 # Node.js and Express Hosted on Microsoft Azure Template
@@ -19,8 +23,7 @@ Initial Usage:
 Some CSS code was originally featured on the CSS templates on W3Schools and have been modified for this site. The link to the original idea is below: 
 <a href="https://www.w3schools.com/css/css_templates.asp">W3Schools Template</a>
 
-# Build and Execution Instructions
-#### Required Files: 
+### Required files to run locally: 
 - index.css
 - me.png
 - index.html
@@ -28,4 +31,4 @@ Some CSS code was originally featured on the CSS templates on W3Schools and have
 - current.html
 - future.html
 
-Use this link to access the site on Azure: <a href="https://node-js-on-azure-test.azurewebsites.net/">Link to Azure Site></a>
+Use this link to access the site on Azure: <a href="https://node-js-on-azure-test.azurewebsites.net/">Link to Azure Site</a>
